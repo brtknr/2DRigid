@@ -1,0 +1,100 @@
+MemID---0
+T:0.000 N	F:0.500 N
+d:-0.003 mm	e:0.000 mm
+M0:6.000 Nmm	M1:-5.500 Nmm
+t0:0.000 rad	t1:-0.006 rad
+MemID---1
+T:0.000 N	F:0.500 N
+d:-0.008 mm	e:0.000 mm
+M0:5.500 Nmm	M1:-5.000 Nmm
+t0:-0.006 rad	t1:-0.011 rad
+MemID---2
+T:0.000 N	F:0.500 N
+d:-0.013 mm	e:0.000 mm
+M0:5.000 Nmm	M1:-4.500 Nmm
+t0:-0.011 rad	t1:-0.016 rad
+MemID---3
+T:0.000 N	F:0.500 N
+d:-0.018 mm	e:0.000 mm
+M0:4.500 Nmm	M1:-4.000 Nmm
+t0:-0.016 rad	t1:-0.020 rad
+MemID---4
+T:0.000 N	F:0.500 N
+d:-0.022 mm	e:0.000 mm
+M0:4.000 Nmm	M1:-3.500 Nmm
+t0:-0.020 rad	t1:-0.024 rad
+MemID---5
+T:0.000 N	F:0.500 N
+d:-0.025 mm	e:0.000 mm
+M0:3.500 Nmm	M1:-3.000 Nmm
+t0:-0.024 rad	t1:-0.027 rad
+MemID---6
+T:0.000 N	F:0.500 N
+d:-0.028 mm	e:0.000 mm
+M0:3.000 Nmm	M1:-2.500 Nmm
+t0:-0.027 rad	t1:-0.030 rad
+MemID---7
+T:0.000 N	F:0.500 N
+d:-0.031 mm	e:0.000 mm
+M0:2.500 Nmm	M1:-2.000 Nmm
+t0:-0.030 rad	t1:-0.032 rad
+MemID---8
+T:0.000 N	F:0.500 N
+d:-0.033 mm	e:0.000 mm
+M0:2.000 Nmm	M1:-1.500 Nmm
+t0:-0.032 rad	t1:-0.034 rad
+MemID---9
+T:0.000 N	F:0.500 N
+d:-0.034 mm	e:0.000 mm
+M0:1.500 Nmm	M1:-1.000 Nmm
+t0:-0.034 rad	t1:-0.035 rad
+MemID---10
+T:0.000 N	F:0.500 N
+d:-0.035 mm	e:0.000 mm
+M0:1.000 Nmm	M1:-0.500 Nmm
+t0:-0.035 rad	t1:-0.036 rad
+MemID---11
+T:0.000 N	F:0.500 N
+d:-0.036 mm	e:0.000 mm
+M0:0.500 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---12
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---13
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---14
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---15
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---16
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---17
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---18
+T:0.000 N	F:0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:0.000 Nmm	M1:0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad
+MemID---19
+T:0.000 N	F:-0.000 N
+d:-0.036 mm	e:0.000 mm
+M0:-0.000 Nmm	M1:-0.000 Nmm
+t0:-0.036 rad	t1:-0.036 rad

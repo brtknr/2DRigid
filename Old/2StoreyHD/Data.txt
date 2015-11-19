@@ -1,0 +1,240 @@
+MemID---0
+T:0.412 N	F:0.631 N
+d:0.004 mm	e:0.021 mm
+M0:2.986 Nmm	M1:-2.671 Nmm
+t0:0.000 rad	t1:-0.014 rad
+MemID---1
+T:0.412 N	F:0.631 N
+d:0.010 mm	e:0.021 mm
+M0:2.671 Nmm	M1:-2.355 Nmm
+t0:-0.014 rad	t1:-0.027 rad
+MemID---2
+T:0.412 N	F:0.631 N
+d:0.016 mm	e:0.021 mm
+M0:2.355 Nmm	M1:-2.040 Nmm
+t0:-0.027 rad	t1:-0.038 rad
+MemID---3
+T:0.412 N	F:0.631 N
+d:0.021 mm	e:0.021 mm
+M0:2.040 Nmm	M1:-1.725 Nmm
+t0:-0.038 rad	t1:-0.047 rad
+MemID---4
+T:0.412 N	F:0.631 N
+d:0.026 mm	e:0.021 mm
+M0:1.725 Nmm	M1:-1.409 Nmm
+t0:-0.047 rad	t1:-0.055 rad
+MemID---5
+T:0.412 N	F:0.631 N
+d:0.029 mm	e:0.021 mm
+M0:1.409 Nmm	M1:-1.094 Nmm
+t0:-0.055 rad	t1:-0.061 rad
+MemID---6
+T:0.412 N	F:0.631 N
+d:0.032 mm	e:0.021 mm
+M0:1.094 Nmm	M1:-0.779 Nmm
+t0:-0.061 rad	t1:-0.066 rad
+MemID---7
+T:0.412 N	F:0.631 N
+d:0.034 mm	e:0.021 mm
+M0:0.779 Nmm	M1:-0.463 Nmm
+t0:-0.066 rad	t1:-0.069 rad
+MemID---8
+T:0.169 N	F:0.723 N
+d:0.037 mm	e:0.008 mm
+M0:1.806 Nmm	M1:-1.445 Nmm
+t0:-0.069 rad	t1:-0.077 rad
+MemID---9
+T:0.169 N	F:0.723 N
+d:0.040 mm	e:0.008 mm
+M0:1.445 Nmm	M1:-1.083 Nmm
+t0:-0.077 rad	t1:-0.083 rad
+MemID---10
+T:0.169 N	F:0.723 N
+d:0.043 mm	e:0.008 mm
+M0:1.083 Nmm	M1:-0.722 Nmm
+t0:-0.083 rad	t1:-0.088 rad
+MemID---11
+T:0.169 N	F:0.723 N
+d:0.045 mm	e:0.008 mm
+M0:0.722 Nmm	M1:-0.361 Nmm
+t0:-0.088 rad	t1:-0.091 rad
+MemID---12
+T:0.169 N	F:0.723 N
+d:0.046 mm	e:0.008 mm
+M0:0.361 Nmm	M1:0.000 Nmm
+t0:-0.091 rad	t1:-0.092 rad
+MemID---13
+T:0.169 N	F:0.723 N
+d:0.046 mm	e:0.008 mm
+M0:-0.000 Nmm	M1:0.362 Nmm
+t0:-0.092 rad	t1:-0.091 rad
+MemID---14
+T:0.169 N	F:0.723 N
+d:0.045 mm	e:0.008 mm
+M0:-0.362 Nmm	M1:0.723 Nmm
+t0:-0.091 rad	t1:-0.088 rad
+MemID---15
+T:0.169 N	F:0.723 N
+d:0.043 mm	e:0.008 mm
+M0:-0.723 Nmm	M1:1.084 Nmm
+t0:-0.088 rad	t1:-0.083 rad
+MemID---16
+T:-0.277 N	F:-0.169 N
+d:-0.078 mm	e:-0.028 mm
+M0:-1.084 Nmm	M1:0.915 Nmm
+t0:-0.083 rad	t1:-0.073 rad
+MemID---17
+T:-0.277 N	F:-0.169 N
+d:-0.069 mm	e:-0.028 mm
+M0:-0.915 Nmm	M1:0.746 Nmm
+t0:-0.073 rad	t1:-0.065 rad
+MemID---18
+T:-0.277 N	F:-0.169 N
+d:-0.062 mm	e:-0.028 mm
+M0:-0.746 Nmm	M1:0.577 Nmm
+t0:-0.065 rad	t1:-0.058 rad
+MemID---19
+T:-0.277 N	F:-0.169 N
+d:-0.056 mm	e:-0.028 mm
+M0:-0.577 Nmm	M1:0.408 Nmm
+t0:-0.058 rad	t1:-0.054 rad
+MemID---20
+T:-0.277 N	F:-0.169 N
+d:-0.052 mm	e:-0.028 mm
+M0:-0.408 Nmm	M1:0.239 Nmm
+t0:-0.054 rad	t1:-0.050 rad
+MemID---21
+T:-0.277 N	F:-0.169 N
+d:-0.049 mm	e:-0.028 mm
+M0:-0.239 Nmm	M1:0.070 Nmm
+t0:-0.050 rad	t1:-0.049 rad
+MemID---22
+T:-0.277 N	F:-0.169 N
+d:-0.049 mm	e:-0.028 mm
+M0:-0.070 Nmm	M1:-0.099 Nmm
+t0:-0.049 rad	t1:-0.049 rad
+MemID---23
+T:-0.277 N	F:-0.169 N
+d:-0.050 mm	e:-0.028 mm
+M0:0.099 Nmm	M1:-0.268 Nmm
+t0:-0.049 rad	t1:-0.051 rad
+MemID---24
+T:-0.169 N	F:0.277 N
+d:0.026 mm	e:-0.008 mm
+M0:0.268 Nmm	M1:-0.129 Nmm
+t0:-0.051 rad	t1:-0.052 rad
+MemID---25
+T:-0.169 N	F:0.277 N
+d:0.026 mm	e:-0.008 mm
+M0:0.129 Nmm	M1:0.010 Nmm
+t0:-0.052 rad	t1:-0.052 rad
+MemID---26
+T:-0.169 N	F:0.277 N
+d:0.026 mm	e:-0.008 mm
+M0:-0.010 Nmm	M1:0.149 Nmm
+t0:-0.052 rad	t1:-0.052 rad
+MemID---27
+T:-0.169 N	F:0.277 N
+d:0.026 mm	e:-0.008 mm
+M0:-0.149 Nmm	M1:0.287 Nmm
+t0:-0.052 rad	t1:-0.051 rad
+MemID---28
+T:-0.169 N	F:0.277 N
+d:0.025 mm	e:-0.008 mm
+M0:-0.287 Nmm	M1:0.426 Nmm
+t0:-0.051 rad	t1:-0.049 rad
+MemID---29
+T:-0.169 N	F:0.277 N
+d:0.024 mm	e:-0.008 mm
+M0:-0.426 Nmm	M1:0.565 Nmm
+t0:-0.049 rad	t1:-0.046 rad
+MemID---30
+T:-0.169 N	F:0.277 N
+d:0.022 mm	e:-0.008 mm
+M0:-0.565 Nmm	M1:0.704 Nmm
+t0:-0.046 rad	t1:-0.043 rad
+MemID---31
+T:-0.169 N	F:0.277 N
+d:0.021 mm	e:-0.008 mm
+M0:-0.704 Nmm	M1:0.842 Nmm
+t0:-0.043 rad	t1:-0.039 rad
+MemID---32
+T:-0.412 N	F:0.369 N
+d:0.019 mm	e:-0.021 mm
+M0:-0.243 Nmm	M1:0.428 Nmm
+t0:-0.039 rad	t1:-0.038 rad
+MemID---33
+T:-0.412 N	F:0.369 N
+d:0.018 mm	e:-0.021 mm
+M0:-0.428 Nmm	M1:0.612 Nmm
+t0:-0.038 rad	t1:-0.035 rad
+MemID---34
+T:-0.412 N	F:0.369 N
+d:0.017 mm	e:-0.021 mm
+M0:-0.612 Nmm	M1:0.797 Nmm
+t0:-0.035 rad	t1:-0.031 rad
+MemID---35
+T:-0.412 N	F:0.369 N
+d:0.015 mm	e:-0.021 mm
+M0:-0.797 Nmm	M1:0.981 Nmm
+t0:-0.031 rad	t1:-0.027 rad
+MemID---36
+T:-0.412 N	F:0.369 N
+d:0.012 mm	e:-0.021 mm
+M0:-0.981 Nmm	M1:1.166 Nmm
+t0:-0.027 rad	t1:-0.022 rad
+MemID---37
+T:-0.412 N	F:0.369 N
+d:0.009 mm	e:-0.021 mm
+M0:-1.166 Nmm	M1:1.351 Nmm
+t0:-0.022 rad	t1:-0.015 rad
+MemID---38
+T:-0.412 N	F:0.369 N
+d:0.006 mm	e:-0.021 mm
+M0:-1.351 Nmm	M1:1.535 Nmm
+t0:-0.015 rad	t1:-0.008 rad
+MemID---39
+T:-0.412 N	F:0.369 N
+d:0.002 mm	e:-0.021 mm
+M0:-1.535 Nmm	M1:1.720 Nmm
+t0:-0.008 rad	t1:0.000 rad
+MemID---40
+T:-0.092 N	F:-0.243 N
+d:-0.063 mm	e:-0.009 mm
+M0:-1.343 Nmm	M1:1.100 Nmm
+t0:-0.069 rad	t1:-0.057 rad
+MemID---41
+T:-0.092 N	F:-0.243 N
+d:-0.052 mm	e:-0.009 mm
+M0:-1.100 Nmm	M1:0.857 Nmm
+t0:-0.057 rad	t1:-0.047 rad
+MemID---42
+T:-0.092 N	F:-0.243 N
+d:-0.043 mm	e:-0.009 mm
+M0:-0.857 Nmm	M1:0.614 Nmm
+t0:-0.047 rad	t1:-0.040 rad
+MemID---43
+T:-0.092 N	F:-0.243 N
+d:-0.037 mm	e:-0.009 mm
+M0:-0.614 Nmm	M1:0.372 Nmm
+t0:-0.040 rad	t1:-0.035 rad
+MemID---44
+T:-0.092 N	F:-0.243 N
+d:-0.033 mm	e:-0.009 mm
+M0:-0.372 Nmm	M1:0.129 Nmm
+t0:-0.035 rad	t1:-0.032 rad
+MemID---45
+T:-0.092 N	F:-0.243 N
+d:-0.032 mm	e:-0.009 mm
+M0:-0.129 Nmm	M1:-0.114 Nmm
+t0:-0.032 rad	t1:-0.032 rad
+MemID---46
+T:-0.092 N	F:-0.243 N
+d:-0.033 mm	e:-0.009 mm
+M0:0.114 Nmm	M1:-0.357 Nmm
+t0:-0.032 rad	t1:-0.034 rad
+MemID---47
+T:-0.092 N	F:-0.243 N
+d:-0.037 mm	e:-0.009 mm
+M0:0.357 Nmm	M1:-0.599 Nmm
+t0:-0.034 rad	t1:-0.039 rad

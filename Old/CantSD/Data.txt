@@ -1,0 +1,10 @@
+MemID---0
+T:0.000 N	F:-1.000 N
+d:0.104 mm	e:0.000 mm
+M0:-1.000 Nmm	M1:0.500 Nmm
+t0:0.000 rad	t1:0.375 rad
+MemID---1
+T:0.000 N	F:-1.000 N
+d:0.229 mm	e:0.000 mm
+M0:-0.500 Nmm	M1:0.000 Nmm
+t0:0.375 rad	t1:0.500 rad
